@@ -1,0 +1,26 @@
+/* Sass variable declarations */
+/*CSS */
+body {
+    font-family: "Calibri";
+    color: white;
+    background: #197474; }
+  
+  .container {
+    margin: 5px !important;
+    text-align: center; }
+  
+  .bg-white{
+      background: white !important;}
+  
+  .jumbotron {
+    color: white !important;
+    background-size: cover;
+    background-repeat: no-repeat; }
+  
+  .navbar {
+    background: #ececec !important;
+    color: white !important; }
+    
+    a{
+        color: #46e3aa;
+    }
